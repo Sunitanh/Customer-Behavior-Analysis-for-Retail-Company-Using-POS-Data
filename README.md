@@ -59,12 +59,13 @@ ________________________________________
 9.	Customers with more than 10 transactions, excluding returns.
 10.	Effectiveness of Flagship Stores in generating revenue from Electronics & Clothing.
 ________________________________________
-**Challenges & Learnings
-Challenges:**
+**Challenges & Learnings:**
+**Challenges:**
 •	Parsing and converting inconsistent date formats.
 •	Handling missing or inconsistent values in product category mappings.
 •	Differentiating between valid transactions and returns (negative revenue or return flag).
 •	Efficiently calculating rolling period insights (e.g., last 30 or 90 days) using SQL.
+
 **Learnings:**
 •	Improved skills in date functions, joins, group-by aggregations, and filtering in SQL.
 •	Learned how to segment data by customer profile and time window.
