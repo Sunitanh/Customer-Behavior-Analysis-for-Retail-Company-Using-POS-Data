@@ -41,7 +41,7 @@ ________________________________________
 
 •	Sub-category relationships (e.g., “DIY” falls under which category)
 ________________________________________
-**Key Steps Performed**
+**Key Steps Performed:**
 
 **1.Data Preparation:**
 
@@ -74,10 +74,10 @@ o	Identified top sub-categories and top-performing categories by quantity and re
 o	Used ranking and conditional aggregation in SQL for filtering top-N outputs.
 
 ________________________________________
-**Technology Stack Used**
-•SQL (MySQL/PostgreSQL) – For querying, joining, aggregating, and transforming data.
+**Technology Stack Used:**
+SQL (MySQL/PostgreSQL) – For querying, joining, aggregating, and transforming data.
 ________________________________________
-**Key Outputs**
+**Key Outputs:**
 
 1.	Most used channel for purchases identified.
 
